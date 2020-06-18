@@ -9,7 +9,6 @@ Author: Darko
 require_once plugin_dir_path(__FILE__) . 'includes/my-functions.php';
 
 
-
 add_action( 'init', 'my_custom_post_custom_article' );
 
 // The custom function to register a custom article post type
